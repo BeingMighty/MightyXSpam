@@ -10,5 +10,5 @@
 <h4 align="center">
 Redirects :
 
-Bot Spam Is [HERE](https://github.com/BeingMighty/MightyBotSpam) & ID Spam Is [HERE](https://github.com/BeingMighty/MightyIDSpam)
+Bot Spam Is [HERE](https://github.com/BeingMighty/MightyXBotSpam) & ID Spam Is [HERE](https://github.com/BeingMighty/MightyXIDSpam)
 </h4>
