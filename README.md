@@ -12,6 +12,7 @@ Redirects : -
 </h3>
 <h4 align="center">
 
-Bot Spam Is [HERE](https://github.com/BeingMighty/MightyXBotSpam) & ID Spam Is [HERE](https://github.com/BeingMighty/MightyXIDSpam)
+BotSpam Is [HERE](https://github.com/BeingMighty/MightyXBotSpam) & IDSpam Is [HERE](https://github.com/BeingMighty/MightyXIDSpam)
 
+And Selfhostable BotSpam Is [HERE](https://github.com/BeingMighty/MightyBotSpamSH)
 </h4>
